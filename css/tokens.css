@@ -1,0 +1,29 @@
+/* SyncuLa design tokens — single source (spec 00_DESIGN_SPEC_LIVING.md v0.6) */
+:root{
+  --cream:#F4F1EA;
+  --navy:#103967;
+  --green:#69B64A;
+  --green-action:#3C7C36;
+  --mist:#F2F6EF;
+  --ink:#17263A;
+  --slate:#526173;
+  --white:#FFFFFF;
+  --error:#B3261E;
+  --warning-bg:#FFF7E6;
+
+  /* category pill colors */
+  --pill-metal:#E8622C;
+  --pill-paper:#3E6FA3;
+  --pill-plastic:#3C7C36;
+  --pill-carton:#8A6D4B;
+
+  --font-display:"Outfit","Noto Sans Lao","Noto Sans",sans-serif;
+  --font-body:"Noto Sans Lao","Noto Sans Thai","Noto Sans",sans-serif;
+
+  --s1:8px; --s2:12px; --s3:16px; --s4:24px; --s5:32px; --s6:48px; --s7:72px; --s8:96px;
+  --radius-card:16px;
+  --maxw:1200px;
+  --shadow-soft:0 4px 16px rgba(16,57,103,.10);
+  --dur:220ms;
+  --ease:cubic-bezier(.33,1,.68,1); /* power2.out-ish */
+}
